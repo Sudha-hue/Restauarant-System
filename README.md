@@ -2,7 +2,8 @@
 ## Food Items - Here we can browse food otions like Pizza, Biryani and more if we want. Here we can view seleted items are delivered or not deliverd.
 ## Tecnical Stuff - Language used - java, IDe - Editplus, Concept used - OOPs principles, file handling, exception handling.
 ## File Structure :
-FoodRes.java
-biryani.java
-pizza.java
-people.java
+# FoodRes.java
+# biryani.java
+# pizza.java
+# people.java
+# git clone https://github.com/Sudha-hue/Restaurant.git
