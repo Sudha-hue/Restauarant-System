@@ -6,4 +6,4 @@
 # biryani.java
 # pizza.java
 # people.java
-# git clone https://github.com/Sudha-hue/Restaurant.git
+# git clone https://github.com/Sudha-hue/Restaurant-System.git
